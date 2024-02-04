@@ -35,7 +35,7 @@
         "starRate": 4.2,
         "reviewCount": 130,
         "stock": 3,
-        "imgSource": "./images/books/zengin-baba-yoksul-baba.jpg",
+        "imgSource":"./images/zengin-baba-yoksul-baba.jpg",
         "type": "FINANCE"
       },
       {
@@ -48,7 +48,7 @@
         "starRate": 4.2,
         "reviewCount": 560,
         "stock": 6,
-        "imgSource": "./images/books/alayci-kus.jpg",
+        "imgSource":"./images/alayci-kus.jpg",
         "type": "NOVEL"
       },
       {
@@ -61,7 +61,7 @@
         "starRate": 3.7,
         "reviewCount": 410,
         "stock": 450,
-        "imgSource": "./images/books/hep-hayir-diyen-cocuk.jpg",
+        "imgSource":"./images/hep-hayir-diyen-cocuk.jpg",
         "type": "CHILDREN"
       },
       {
@@ -74,7 +74,7 @@
         "starRate": 4.3,
         "reviewCount": 145,
         "stock": 321,
-        "imgSource": "./images/books/avucunuzdaki-kelebek.jpg",
+        "imgSource":"./images/avucunuzdaki-kelebek.jpg",
         "type": "SELFIMPROVEMENT"
       },
       {
@@ -87,7 +87,7 @@
         "starRate": 4.3,
         "reviewCount": 173,
         "stock": 73,
-        "imgSource": "./images/books/kumarbaz.jpg",
+        "imgSource":"./images/kumarbaz.jpg",
         "type": "NOVEL"
       },
     
@@ -101,7 +101,7 @@
         "starRate": 4.3,
         "reviewCount": 189,
         "stock": 89,
-        "imgSource": "./images/books/utangac-ayi-monti.jpg",
+        "imgSource":"./images/utangac-ayi-monti.jpg",
         "type": "CHILDREN"
       },
       {
@@ -114,7 +114,7 @@
         "starRate": 2,
         "reviewCount": 78,
         "stock": 80,
-        "imgSource": "./images/books/kara-delikler.jpg",
+        "imgSource":"./images/kara-delikler.jpg",
         "type": "SCIENCE"
       },
       {
@@ -124,10 +124,10 @@
         "price": 34.99,
         "oldPrice": 47.49,
         "description": "İnsan Geleceğini Nasıl Kurar? yaşam tecrübesini paylaşmayı vazife bilen bir entelektüelden, İlber Hoca’dan, okurlar için bir yol açma, yol yapma, kendini inşa etme ve toplumu ayağa kaldırma rehberi. Platon, Seneca, Cicero, Farabi gibi bilgelerin ilhamı eşliğinde ve Yenal Bilgici’nin sorularıyla…",
-        "starRate": 4.5,
+        "starRate": 3,
         "reviewCount": 250,
         "stock": 14,
-        "imgSource": "./images/books/insan-gelecegini-nasil-kurar.jpg",
+        "imgSource":"./images/insan-gelecegini-nasil-kurar.jpg",
         "type": "SELFIMPROVEMENT"
       },
       {
@@ -137,10 +137,10 @@
         "price": 52.29,
         "oldPrice": 65,
         "description": "Yuval Noah Harari’nin kaleme aldığı Hayvanlardan Tanrılara Sapiens, son yılların en çok ses getiren kitapları arasında yer alıyor. Başlangıçtan bugüne insanın tarihsel yolculuğunu ele alan eser, bugünü meydana getiren tüm koşulları fenni ve sosyal bilimler ışığında detaylandırıyor",
-        "starRate": 4.2,
+        "starRate": 1,
         "reviewCount": 480,
         "stock": 490,
-        "imgSource": "./images/books/sapiens.jpg",
+        "imgSource":"./images/sapiens.jpg",
         "type": "HISTORY"
       },
       {
@@ -153,7 +153,7 @@
         "starRate": 4.4,
         "reviewCount": 930,
         "stock": 143,
-        "imgSource": "./images/books/savas-ve-baris.jpg",
+        "imgSource":"./images/savas-ve-baris.jpg",
         "type": "NOVEL"
       }
 ]

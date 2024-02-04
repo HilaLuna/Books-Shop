@@ -66,13 +66,13 @@
     <section class="store mt-5">
         <div class="filter_background"></div>
         <ul class="filter">
-            <li class="active">Tümü</li>
+            <!--<li class="active">Tümü</li>
             <li>Tarih</li>
             <li>Roman</li>
             <li>Finans</li>
             <li>Çocuk</li>
             <li>Kişisel Gelişim</li>
-            <li>Bilim</li>
+            <li>Bilim</li> -->
         </ul>
         <div class="row book_list">
             <div class="col-5 offset-2 my-5"> <!--offset'i kaldırırsak sola yaslanıyor kitap img.-->
@@ -196,7 +196,10 @@
             <i class="bi bi-x" onclick="toggleModal()"></i>
             <h2 class="basket_title">Sepetteki Ürünler</h2>
             <ul class="basket_list">
-                <li class="basket_item">
+               <li class="basket_item">
+                   <p class="text-center w-100">Sepette herhangi bir ürün bulunmuyor. Sepete ürün ekleyiniz.</p>
+                </li>
+                <!--  <li class="basket_item">
                     <img src="./images/hayvan-ciftligi.jpg" alt="" width="100" height="100">
                     <div class="basket_item-info">
                         <h3 class="book_name">Hayvan Ciftligi</h3>
@@ -205,27 +208,14 @@
                     </div>
                     <div class="book_count">
                         <span class="decrease">-</span>
-                        <span class="mx-2">2</span>
-                        <span class="increase">+</span>
+                        <span class="mx-2">2</span> <!-margin left ve right oluyor x ekseninde olduğu için-->
+                        <!-- <span class="increase">+</span>
                     </div>
-                </li>
-                <li class="basket_item">
-                    <img src="./images/hayvan-ciftligi.jpg" alt="" width="100" height="100">
-                    <div class="basket_item-info">
-                        <h3 class="book_name">Hayvan Ciftligi</h3>
-                        <span class="book_price">45tl</span><br>
-                        <span class="book_remove">Sepetten Kaldır</span>
-                    </div>
-                    <div class="book_count">
-                        <span class="decrease">-</span>
-                        <span class="mx-2">2</span> <!--margin left ve right oluyor x ekseninde olduğu için-->
-                        <span class="increase">+</span>
-                    </div>
-                </li>
+                </li>  -->
             </ul>
             <div class="basket_total">
-                <span>Toplam: 100tl</span>
-                <button class="btn_purple">Onayla</button>
+                <span class="fw-bold fs-4 mb-3 total_price"></span>
+                <button class="btn_purple btnCheck">Onayla</button>
             </div>
         </div>
     </div>
